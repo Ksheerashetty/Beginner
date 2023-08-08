@@ -10,7 +10,7 @@ public class Input{
 
 
 
-Output:
-Enter your age
-18
-Age = 18
+// Output:
+// Enter your age
+// 18
+// Age = 18
