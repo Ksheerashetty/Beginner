@@ -18,3 +18,13 @@ public class Voting {
     }
  }
 }
+
+
+// Output:
+// Please enter your age: 
+// 18
+// You are eligible for voting :)
+// Please enter your age: 
+// 12
+// Sorry,You are not eligible for voting :(
+
