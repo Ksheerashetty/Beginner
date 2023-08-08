@@ -15,8 +15,8 @@ public class Circle{
 }
 
 
-Output:
-Enter the radius of the circle
-2
-Perimeter is = 12.56
-Area is = 12.56
+// Output:
+// Enter the radius of the circle
+// 2
+// Perimeter is = 12.56
+// Area is = 12.56
