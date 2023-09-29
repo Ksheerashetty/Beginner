@@ -28,3 +28,6 @@ public class Voting {
 // 12
 // Sorry,You are not eligible for voting :(
 
+//Example 2:
+//return greater if a is greater than a , smaller if b is smaller ,equal if a and b are equal
+// return(a>b)? "greater": (b>a)?"smaller":"equal";
